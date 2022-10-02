@@ -1,0 +1,34 @@
+{
+    "name": "@mfcollins3/commonmark-swift",
+    "version": "0.1.0",
+    "description": "Parse or render Markdown content in Swift applications using CommonMark",
+    "keywords": [
+        "commonmark",
+        "cmark",
+        "gfm",
+        "markdown"
+    ],
+    "homepage": "https://github.com/mfcollins3/commonmark-swift",
+    "bugs": {
+        "email": "mfcollins3@me.com",
+        "url": "https://github.com/mfcollins3/commonmark-swift/issues"
+    },
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Michael Collins",
+            "email": "mfcollins3@me.com",
+            "url": "https://www.michaelfcollins3.me"
+        }
+    ],
+    "repository": "github:mfcollins3/commonmark-swift",
+    "scripts": {
+        "prepare": "husky install"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^17.1.2",
+        "@commitlint/config-conventional": "^17.1.0",
+        "husky": "^8.0.1"
+    },
+    "private": true
+}
