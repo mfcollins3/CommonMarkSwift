@@ -6,6 +6,6 @@
 
 ## Contributing to CommonMarkSwift
 
-1. [Development Environment Requirements](docs/DevelopmentEnvironmentRequirements.md)
-1. [Cloning the Repository](docs/Cloning.md)
+1. [Development Environment Requirements](Documentation/DevelopmentEnvironmentRequirements.md)
+1. [Cloning the Repository](Documentation/Cloning.md)
 1. [Contributing to CommonMarkSwift](.github/CONTRIBUTING.md)
